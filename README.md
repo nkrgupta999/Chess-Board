@@ -10,7 +10,7 @@ To use this code, you will need a basic understanding of HTML and CSS.
 ## Usage
 To use the Chess board, simply open the HTML file in your browser. You can move the pieces around the board using your own game logic.
 
-## Contenthttps
+## Content
 
 ## Web-View
 
