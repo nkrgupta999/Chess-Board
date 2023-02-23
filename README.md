@@ -39,7 +39,7 @@ https://www.linkedin.com/in/nitin-kumar-gupta-038297169/
 https://linktr.ee/nk_gupta999
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 This project was inspired by the classic board game Chess.
