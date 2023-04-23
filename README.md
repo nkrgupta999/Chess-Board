@@ -8,7 +8,7 @@ To use this code, simply copy the HTML and CSS code into your own project. You c
 To use this code, you will need a basic understanding of HTML and CSS.
 
 ## Usage
-To use the Chess board, simply open the HTML file in your browser. You can move the pieces around the board using your own game logic.
+To use the Chess board, simply open the HTML file in your browser.
 
 ## Content
 https://nkrgupta999.github.io/Chess-Board/
@@ -33,13 +33,10 @@ Please note that the information contained in this repository is provided for in
 
 
 ## LinkedIn 
-https://www.linkedin.com/in/nitin-kumar-gupta-038297169/
+https://www.linkedin.com/in/nkrgupta999
 
 ## Connect 
-https://linktr.ee/nk_gupta999
-
-## License
-This project is licensed under the MIT License.
+https://linktr.ee/nkrgupta999
 
 ## Acknowledgments
 This project was inspired by the classic board game Chess.
